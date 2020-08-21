@@ -141,6 +141,6 @@ Hi，every one！
 
 ![微信账号](https://gblobscdn.gitbook.com/assets%2F-MBZN1x8F8KZbGhD4Paj%2F-MBcYIh4YqmJ27zPxTXN%2F-MBcZJfAEresbZcbmKh1%2Fwanghaoxiu.jpg?alt=media&token=7341a2cb-a3a3-4acf-8aaf-ab97f23a9e6a)
 
-三、聚会采取AA制。
+- 具体聚会场所地点将视报名人数、集中程度而定，将及时通过微信通知。
 
-四、具体聚会场所地点将视报名人数、集中程度而定，将及时通过微信通知。
+- 聚会采取AA制。
