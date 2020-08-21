@@ -2,11 +2,11 @@
 
 Hi，@feiskyer！
 
-This is aomoxo's co-founders，haoxiu wang and fei wang，Nice to meet you here。
+This is aomoxo's co-founders，HaoXiu Wang and Fei Wang，Nice to meet you here。
 
 通过github，我们了解到，您是一位极其优秀的程序员，专注于kubernetes原生云，是一位难得的人才。
 
-今天，我们邀请您成为爱梦想公司（aomoxo）持股最多的200名精英之一，共同致力于，“以六倍于拼多多的人力，四年突破500亿美元市值”。
+今天，我们邀请您成为爱梦想公司（aomoxo）持股最多的200名精英之一，共同致力于“以六倍于拼多多的人力，四年突破500亿美元市值”的非凡目标（爱梦想万亿美元市值事业的第一阶段目标）。
 
 500亿美元市值，您的身价最低5000万美元，超过3亿元，最高1.5亿美元，超过十亿元：爱梦想，才是您值得为之全力拼搏的理想之地。
 
