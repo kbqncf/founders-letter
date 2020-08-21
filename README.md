@@ -138,6 +138,7 @@ Hi，every one！
 二、报名要求
 
 - 加入创始人微信（wanghaoxiu），在请求加入时注明自己的github用户名。
+
 ![微信账号](https://gblobscdn.gitbook.com/assets%2F-MBZN1x8F8KZbGhD4Paj%2F-MBcYIh4YqmJ27zPxTXN%2F-MBcZJfAEresbZcbmKh1%2Fwanghaoxiu.jpg?alt=media&token=7341a2cb-a3a3-4acf-8aaf-ab97f23a9e6a)
 
 三、聚会采取AA制。
