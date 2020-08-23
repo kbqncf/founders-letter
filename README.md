@@ -103,9 +103,9 @@ Hi，everyone！
 #### 有关事项
 
 - 如有志于担任爱梦想公司副总裁一职，请立刻[联系我们](https://github.com/aomoxo/founders-letter#%E6%8A%A5%E5%90%8D%E8%A6%81%E6%B1%82)，只要还有空余席位，那么您会立刻成为爱梦想十名副总裁中的一员。
-- 所有受邀人才，皆为在GITHUB上参与开源贡献的优秀程序员。
 - 加入爱梦想不需要立刻辞职，直到200名精英全体到齐后统一行动。
 - 如担心疫情而不愿实地参与聚会，也可在线参与。
+- 所有受邀人才，皆为在GITHUB上参与开源贡献的优秀程序员。
 - 任何时间您都可以直接用[微信](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)与创始人沟通交流。
 
 #### 报名要求
