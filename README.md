@@ -102,9 +102,8 @@ Hi，everyone！
 
 #### 报名要求
 
-- 加创始人的微信（wanghaoxiu），请求加好友时请注明自己的github用户名。
-
-![微信账号](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)
+- 加创始人的微信（wanghaoxiu，[二维码]
+(https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)见附图），请求加好友时请注明自己的github用户名。
 
 - 具体聚会场所、时间将视报名人数、人员分布而定，将随时在微信通知。
 
@@ -118,3 +117,7 @@ Hi，everyone！
 - 如担心疫情而不愿实地参与聚会，也可在线参与。
 - 所有受邀人才，皆为在GITHUB上参与开源贡献的优秀程序员。
 - 任何时间您都可以直接用[微信](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)与创始人沟通交流。
+
+#### 附图：创始人二维码
+
+![微信账号](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)
