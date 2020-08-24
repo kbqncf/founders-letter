@@ -118,6 +118,6 @@ Hi，everyone！
 - 所有受邀人才，皆为在GITHUB上参与开源贡献的优秀程序员。
 - 任何时间您都可以直接用[微信](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)与创始人沟通交流。
 
-#### 附图：创始人二维码
+#### 创始人微信二维码
 
 ![微信账号](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)
