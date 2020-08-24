@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <canvas id="canvas" width="300" height="300"></canvas>
+    <script type="text/javascript">
+      var canvas=document.getElementById('canvas');
+      var ctx=canvas.getContext('2d');
+      var point=[150,150];
+      var x,y;
+      for(x=0;x<301;x+=10){
+        y=Math.sqrt(150*150-(x-150)*(x-150));
+        y=-y+150;
+        ctx.beginPath();
+        ctx.arc(x,y,5,0,2*Math.PI);
+        ctx.stroke();
+        ctx.strokeStyle = "green";
+        ctx.closePath();
+        y=-y+300;
+        ctx.beginPath();
+        ctx.arc(x,y,5,0,2*Math.PI);
+        ctx.stroke();
+        ctx.strokeStyle = "green";
+        ctx.closePath();
+      }
+    </script>
+  </body>
+</html>
