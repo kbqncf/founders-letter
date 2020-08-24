@@ -118,4 +118,5 @@ Hi，everyone！
 #### 创始人微信
 - 账号：wanghaoxiu
 - 二维码
+
 ![微信账号](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)
