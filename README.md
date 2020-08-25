@@ -115,6 +115,6 @@ Hi，everyone！
 - 如担心疫情而不愿实地参与聚会，也可在线参与。
 - 所有受邀人才，皆为在GITHUB上参与开源贡献的优秀程序员。
 - 任何时间您都可以直接用[微信](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)与创始人沟通交流。
-- 加创始人微信（@wanghaoxiu，[二维码](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)），请求加好友时请注明自己的github用户名。
+- 加创始人微信（wanghaoxiu），请求加好友时请注明自己的github用户名。
 
 ![微信账号](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)
