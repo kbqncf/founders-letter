@@ -119,7 +119,7 @@ Hi，everyone！我们已在github上邀请您加入aomoxo组织，这封邀请�
 - 加入爱梦想不要求立刻辞职，在200名精英全体到齐后统一行动。
 - 因疫情而不无法参与聚会，也可在线参与。
 - 任何时间您都可以直接用微信与创始人沟通交流。
-- 加创始人微信（wanghaoxiu），时请注明自己的github用户名。
+- 加创始人微信（wanghaoxiu），请注明自己的github用户名。
 
 ![微信账号](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)
 
