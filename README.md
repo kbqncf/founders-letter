@@ -115,11 +115,11 @@ Hi，everyone！我们已在github上邀请您加入aomoxo组织，这封邀请�
  -  北京：10月1-10月10日。  
 - 所有参会人员，需提前与创始人联系（微信或email），以确定具体的聚会时间地点。
 - 聚会采取AA制，本着节俭做事、量力而行的原则，大家共同营造一个美好的交流环境。
-- 如有志于担任爱梦想公司副总裁一职，则请立刻[联系我们](https://github.com/aomoxo/founders-letter#%E6%8A%A5%E5%90%8D%E8%A6%81%E6%B1%82)。
+- 如有志于担任爱梦想公司副总裁一职，则请立刻联系我们。
 - 加入爱梦想不要求立刻辞职，在200名精英全体到齐后统一行动。
 - 因疫情而不无法参与聚会，也可在线参与。
-- 任何时间您都可以直接用[微信](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)与创始人沟通交流。
-- 加创始人微信（wanghaoxiu），请求加好友时请注明自己的github用户名。
+- 任何时间您都可以直接用微信与创始人沟通交流。
+- 加创始人微信（wanghaoxiu），时请注明自己的github用户名。
 
 ![微信账号](https://cdn.jsdelivr.net/gh/aomoxo/founders-letter@latest/images/qrcode.jpg)
 
